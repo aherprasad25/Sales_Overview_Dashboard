@@ -1,4 +1,4 @@
-# Store_Performance_Dashboard
+# Sales_Overview_Dashboard
 Interactive Store Performance Dashboard built with Power BI, showcasing insights through data transformation, advanced DAX calculations, and visually appealing designs for business decision-making.
 
 ## Overview
@@ -22,6 +22,7 @@ This project focuses on creating a **Store Performance Dashboard** using **Power
 4. **Insights Generation:** Derived actionable insights for better decision-making.
 
 ## Screenshots
-[Dashboard Overview]![image (1)](https://github.com/user-attachments/assets/cd4a68bc-ee28-49b9-ab75-91173ff09521)
+[Dashboard Overview]![image (2)](https://github.com/user-attachments/assets/c73e028e-044f-48be-bbe6-842dcf0eba4f)
+
 
 
