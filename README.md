@@ -23,7 +23,7 @@ The **Sales Overview Dashboard** is a comprehensive Power BI project that tracks
 
 
 
-## Screenshots
+## Screenshot
 [Dashboard Overview]![image (2)](https://github.com/user-attachments/assets/c73e028e-044f-48be-bbe6-842dcf0eba4f)
 
 
